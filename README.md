@@ -6,12 +6,12 @@
 
 ---
 ## Sitio web
-[?? zeligsoft.com.ar](https://zeligsoft.com.ar/)
+[ zeligsoft.com.ar](https://zeligsoft.com.ar/)
 
 ## Sobre ZeligGestion
-? **Modular**: Personaliza según tus necesidades  
-? **Flexible**: Se ajusta a distintos sectores  
-? **Eficiente**: Optimiza la gestión empresarial  
+**Modular**: Personaliza según tus necesidades  
+**Flexible**: Se ajusta a distintos sectores  
+**Eficiente**: Optimiza la gestión empresarial  
 
 ---
 
