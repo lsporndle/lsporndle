@@ -1,4 +1,4 @@
-# ZeligSoft ![ZeligSoft Logo](https://zeligsoft.com.ar/wp-content/uploads/2023/12/Logo-Zelig-1.png)
+# ZeligSoft
 
 ### Hogar de **ZeligGestion**, software de gestión modular y personalizable
 
