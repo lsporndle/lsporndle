@@ -1,16 +1,18 @@
-## Hi there 👋
+# ZeligSoft ??
+### Hogar de **ZeligGestion**, software de gestión modular y personalizable
 
-<!--
-**lsporndle/lsporndle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Adaptabilidad e innovación para tu negocio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ?? Sitio web
+[?? zeligsoft.com.ar](https://zeligsoft.com.ar/)
+
+## ?? Sobre ZeligGestion
+? **Modular**: Personaliza según tus necesidades  
+? **Flexible**: Se ajusta a distintos sectores  
+? **Eficiente**: Optimiza la gestión empresarial  
+
+---
+
+![ZeligSoft Logo](https://zeligsoft.com.ar/)
