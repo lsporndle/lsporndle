@@ -4,14 +4,14 @@
 > Adaptabilidad e innovación para tu negocio.
 
 ---
-## ?? Sitio web
+## Sitio web
 [?? zeligsoft.com.ar](https://zeligsoft.com.ar/)
 
-## ?? Sobre ZeligGestion
+## Sobre ZeligGestion
 ? **Modular**: Personaliza según tus necesidades  
 ? **Flexible**: Se ajusta a distintos sectores  
 ? **Eficiente**: Optimiza la gestión empresarial  
 
 ---
 
-![ZeligSoft Logo](https://zeligsoft.com.ar/)
+![ZeligSoft Logo](https://zeligsoft.com.ar/wp-content/uploads/2023/12/Logo-Zelig-1.png)
